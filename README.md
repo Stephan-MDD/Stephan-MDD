@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![cover](https://assets.simpleview-europe.com/bergen/imageresizer/?image=%2Fdmsimgs%2FC15233DE5FA1369E6515CB0433C89594E66B7975.jpg&action=ProductDetailExtraLargeNew)
-
 <!--
 **Stephan-MDD/Stephan-MDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

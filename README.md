@@ -3,6 +3,10 @@
 
 Hi, and welcome to my GitHub! :)  
 
+<!--details><summary>CLICK ME</summary>
+  <h2>Hello GitHub</h2>
+</details-->
+
 I'm a simple guy loving to code and be challenged with new technologies.  
 My favorite data processing tool is python together with pandas and numpy can nothing reach it.
 For fullstack applications my favorite stack is MERN with TypeScript.

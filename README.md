@@ -1,5 +1,5 @@
-<h2 align="center">Bachelor's Degree in Software Development</h2>
-<span align="center"><em>With a passion for modern and innovative technologies</span></em>
+<h1 align="center">Bachelor's Degree in Software Development</h1>
+<em align="center">With a passion for modern and innovative technologies</em>
 
 
 
@@ -7,18 +7,3 @@
 
 ### Databases
 ![databases](assets/databases.png)
-
-<!--
-**Stephan-MDD/Stephan-MDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -7,6 +7,9 @@ Hi, and welcome to my GitHub! :)
 
 ## Technologies
 
+### Languages
+![languages](assets/languages.png)
+
 ### Databases
 ![databases](assets/databases.png)
 

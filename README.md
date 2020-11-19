@@ -1,16 +1,13 @@
 <h1 align="center">Bachelor's Degree in Software Development</h1>
 <p align="center"><em>With a passion for modern and innovative technologies</em></p>
 
-Hi, and welcome to my GitHub! :)
+Hi, and welcome to my GitHub! :)  
+Below are my current grades and known technologies, feel free to check it out.
 
-
-
-## Technologies
-
-### Languages
+## Languages
 ![languages](assets/languages.png)
 
-### Databases
+## Databases
 ![databases](assets/databases.png)
 
 ## Grades

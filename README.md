@@ -1,4 +1,7 @@
-### Welcome
+<h2 align="center">Bachelor's Degree in Software Development</h2>
+<span align="center"><em>With a passion for modern and innovative technologies</span></em>
+
+
 
 ## Technologies
 

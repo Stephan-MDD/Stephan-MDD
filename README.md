@@ -4,11 +4,17 @@
 Hi, and welcome to my GitHub! :)  
 Below are my current grades and known technologies, feel free to check it out.
 
+## Favorite Stack
+![stack](assets/stack.png)
+
 ## Languages
 ![languages](assets/languages.png)
 
 ## Databases
 ![databases](assets/databases.png)
+
+## Machine Learning Frameworks & Libraries
+![machine learning](assets/machine-learning.png)
 
 ## Grades
 

@@ -42,7 +42,7 @@ My plan is to take a Master of Science in Digital Innovation and Management at t
 ### Computer Science 2017-2020
 | Date | Exam | Grade (DK) | Grade (Intl) |
 | --- | --- | :-: | :-: |
-| Januar 2020 | Final Exam Project | 10 | B |
+| Januar 2020 | Final Exam Project | 12 | A |
 | Januar 2020 | Elective, Average | 12 | A |
 | October 2019 | Internship | 12 | A |
 | June 2019 | Elective, Fullstack JavaScript | 12 | A |

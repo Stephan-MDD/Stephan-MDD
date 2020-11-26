@@ -30,7 +30,7 @@ Below are a better image of my, current grades and known technologies, feel free
 
 <details><summary><em>Click to show profile</em></summary>
   <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/37081797?s=460&u=728f0aa4a6fc22bf09c417a7953d6866f8b9759c&v=4" alt="profile"/>
+  <img src="assets/profile.jpg" alt="profile"/>
     </p>
 </details>
 

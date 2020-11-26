@@ -21,6 +21,8 @@ Below are my current grades and known technologies, feel free to check it out.
 * **CPHBusiness, Softwaredevelopment**
   * Electives (Machine Learning, Artificial Intelligence & Business Intelligence)
 
+> [Go to my Grades](#Grades)
+
 #### Next Milestone
 My plan is to take a Master of Science in [Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management) at the IT University of Copenhagen.
 

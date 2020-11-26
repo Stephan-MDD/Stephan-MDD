@@ -36,10 +36,6 @@ Below are my current grades and known technologies, feel free to check it out.
   </a>
 </p>
 
-
-  
-  </div>
-
 ## Favorite Stack
 ![stack](assets/stack.png)
 

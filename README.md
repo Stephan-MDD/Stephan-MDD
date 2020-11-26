@@ -11,8 +11,6 @@ I'm a simple guy loving to code and be challenged with new technologies.
 My favorite data processing tool is python together with pandas and numpy can nothing reach it.
 For fullstack applications my favorite stack is MERN with TypeScript.
 
-Below are my current grades and known technologies, feel free to check it out.
-
 ### Resume
 * **HTX, Mathematics & Physics**
   * Electives (Electronics & Programming)
@@ -25,6 +23,8 @@ Below are my current grades and known technologies, feel free to check it out.
 
 #### Next Milestone
 My plan is to take a Master of Science in [Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management) at the IT University of Copenhagen.
+
+Below are my current grades and known technologies, feel free to check it out.
 
 <br>
 

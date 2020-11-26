@@ -26,7 +26,7 @@ My plan is to take a Master of Science in Digital Innovation and Management at t
 * [Master of Science in Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management)
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/">
 <img src="assets/linkedin.png" height="64px"/>
    <br>
       <strong>Contact Me</strong>   

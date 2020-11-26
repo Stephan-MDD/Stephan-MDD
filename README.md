@@ -21,11 +21,21 @@ Below are my current grades and known technologies, feel free to check it out.
 * **CPHBusiness, Softwaredevelopment**
   * Electives (Machine Learning, Artificial Intelligence & Business Intelligence)
 
-### Next Step
+#### Next Milestone
 My plan is to take a Master of Science in Digital Innovation and Management at the IT University of Copenhagen.
 * [Master of Science in Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management)
 
-<a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/">Contact me at <img src="assets/linkedin.png" alt="linkedin" height="18px"></a>
+<p align="center">
+  <a href="">
+<img src="assets/linkedin.png" height="64px"/>
+   <br>
+      <strong>Contact Me</strong>   
+  </a>
+</p>
+
+
+  
+  </div>
 
 ## Favorite Stack
 ![stack](assets/stack.png)

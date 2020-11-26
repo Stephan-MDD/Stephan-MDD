@@ -13,11 +13,20 @@ For fullstack applications my favorite stack is MERN with TypeScript.
 
 Below are my current grades and known technologies, feel free to check it out.
 
+### Resume
+* **HTX, Mathematics & Physics**
+  * Electives (Electronics & Programming)
+* **CPHBusiness, Computer Science**
+  * Electives (Fullstack JavaScript, Python & Internet of Things)
+* **CPHBusiness, Softwaredevelopment**
+  * Electives (Machine Learning, Artificial Intelligence & Business Intelligence)
+
+### Next Step
 My plan is to take a Master of Science in Digital Innovation and Management at the IT University of Copenhagen.
 * [Master of Science in Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management)
 
-<span>Contact me at </span>
-<a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/"><img src="assets/linkedin.png" alt="linkedin" height="18px"></a>  
+<a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/">Contact me at <img src="assets/linkedin.png" alt="linkedin" height="18px"></a>
+
 ## Favorite Stack
 ![stack](assets/stack.png)
 

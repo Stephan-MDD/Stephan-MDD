@@ -30,7 +30,7 @@ My plan is to take a Master of Science in [Digital Innovation and Management](ht
   <a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/">
 <img src="assets/linkedin.png" height="64px"/>
    <br>
-      <strong>Contact Me</strong>   
+      <span>Contact Me</span>   
   </a>
 </p>
 

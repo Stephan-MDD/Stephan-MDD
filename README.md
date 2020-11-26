@@ -25,7 +25,7 @@ Below are my current grades and known technologies, feel free to check it out.
 My plan is to take a Master of Science in Digital Innovation and Management at the IT University of Copenhagen.
 * [Master of Science in Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management)
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/">

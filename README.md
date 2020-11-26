@@ -3,9 +3,11 @@
 
 Hi, and welcome to my GitHub! :)  
 
-<!--details><summary>CLICK ME</summary>
-  <h2>Hello GitHub</h2>
-</details-->
+<!--
+Figma Images:
+- Icons, height: 64px (crop whitespace)
+- Cover, padding: 15px 
+-->
 
 I'm a simple guy loving to code and be challenged with new technologies.  
 My favorite data processing tool is python together with pandas and numpy can nothing reach it.
@@ -24,7 +26,13 @@ For fullstack applications my favorite stack is MERN with TypeScript.
 #### Next Milestone
 My plan is to take a Master of Science in [Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management) at the IT University of Copenhagen.
 
-Below are my current grades and known technologies, feel free to check it out.
+Below are a better image of my, current grades and known technologies, feel free to check it out.
+
+<details><summary><em>Click to show profile</em></summary>
+  <p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/37081797?s=460&u=728f0aa4a6fc22bf09c417a7953d6866f8b9759c&v=4" alt="profile"/>
+    </p>
+</details>
 
 <br>
 
@@ -47,6 +55,11 @@ Below are my current grades and known technologies, feel free to check it out.
 
 ## Machine Learning Frameworks & Libraries
 ![machine learning](assets/machine-learning.png)
+
+<!-- 
+## Tools
+Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, IntelliJ, GitHub, GitHub Actions (CI), SSH, Docker, kubernetes, Vagrant
+-->
 
 ## Grades
 

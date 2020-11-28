@@ -26,7 +26,7 @@ For fullstack applications my favorite stack is MERN with TypeScript.
 #### Next Milestone
 My plan is to take a Master of Science in [Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management) at the IT University of Copenhagen.
 
-Below are a better image of my, current grades and known technologies, feel free to check it out.
+Below are a better image of me, current grades and known technologies, feel free to check it out.
 
 <details><summary><em>Click to show profile</em></summary>
   <p align="center">

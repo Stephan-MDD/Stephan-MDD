@@ -66,6 +66,7 @@ Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, Intel
 ### Software Develpment 2020-2021
 | Semester | Exam | Grade (DK) | Grade (Intl) |
 | --- | --- | :-: | :-: |
+| Fall 2020 | Business Intelligence | 10 | B |
 | Spring 2020 | Advanced Databases | 12 | A |
 | Spring 2020 | Software Testing | 12 | A |
 | Spring 2020 | Machine Learning & AI | 12 | A |
@@ -73,8 +74,8 @@ Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, Intel
 ### Computer Science 2017-2020
 | Semester | Exam | Grade (DK) | Grade (Intl) |
 | --- | --- | :-: | :-: |
-| Fall 2020 | Final Exam Project | 12 | A |
-| Fall 2020 | Elective, Average | 12 | A |
+| Fall 2019 | Final Exam Project | 12 | A |
+| Fall 2019 | Elective, Average | 12 | A |
 | Fall 2019 | Internship | 12 | A |
 | Spring 2019 | Elective, Fullstack JavaScript | 12 | A |
 | Spring 2019 | Elective, Internet of Things | 12 | A |

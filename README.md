@@ -66,6 +66,7 @@ Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, Intel
 ### Software Develpment 2020-2021
 | Semester | Exam | Grade (DK) | Grade (Intl) |
 | --- | --- | :-: | :-: |
+| Fall 2020 | System Integration | 12 | A |
 | Fall 2020 | Investigation & Reporting | 10 | B |
 | Fall 2020 | Business Intelligence | 10 | B |
 | Spring 2020 | Advanced Databases | 12 | A |

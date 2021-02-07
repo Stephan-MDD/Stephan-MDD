@@ -88,3 +88,9 @@ Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, Intel
 | Spring 2018 | Firstyear Average | 12 | A |
 | Spring 2018 | Firstyear test, part 2 | 12 | A |
 | Fall 2017 | Firstyear test, part 1 | 10 | B |
+
+##
+
+<p align="center">
+<img src="assets/rm-test.png"/>
+</p>

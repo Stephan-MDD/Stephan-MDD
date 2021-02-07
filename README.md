@@ -91,6 +91,6 @@ Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, Intel
 
 ##
 
-<p align="center">
+<!--p align="center">
 <img src="assets/rm-test.png"/>
-</p>
+</p -->

@@ -66,6 +66,8 @@ Jupyter Notebook, Visal Studio Code, Digital Ocean, Visual Studio for Mac, Intel
 ### Software Develpment 2020-2021
 | Semester | Exam | Grade (DK) | Grade (Intl) |
 | --- | --- | :-: | :-: |
+| Spring 2021 | Bachelor Project | 12 | A |
+| Spring 2021 | Intership | 12 | A |
 | Fall 2020 | Large System Development | 12 | A |
 | Fall 2020 | System Integration | 12 | A |
 | Fall 2020 | Investigation & Reporting | 10 | B |

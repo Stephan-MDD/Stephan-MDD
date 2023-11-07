@@ -23,19 +23,6 @@ For fullstack applications my favorite stack is MERN with TypeScript.
 
 > [Go to my Grades](#Grades)
 
-#### Next Milestone
-My plan is to take a Master of Science in [Digital Innovation and Management](https://en.itu.dk/programmes/msc-programmes/digital-innovation-and-management) at the IT University of Copenhagen.
-
-Below are a better image of me, current grades and known technologies, feel free to check it out.
-
-<details><summary><em>Click to show profile</em></summary>
-  <p align="center">
-  <img src="assets/profile.jpg" alt="profile"/>
-    </p>
-</details>
-
-<br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/stephan-duelund-djurhuus/">
 <img src="assets/linkedin.png" height="64px"/>
